@@ -1,6 +1,6 @@
 {
   "name": "my-first-app",
-  "homepage": "./",
+  "homepage": "https://codinggiraffe.github.com/week7day2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
